@@ -6,7 +6,7 @@
 
 This is an app refactored to use python and various libraries to handle the server-side functionality.
 
-
+https://python-newsapp.herokuapp.com/
 
 
 
@@ -33,6 +33,7 @@ This project uses Flask, SQLAlchemy, PyMySQL, bcrypt, python-dotenv, and Gunicor
 
 ```md
 Visit on Heroku!
+https://python-newsapp.herokuapp.com/
 ```
 
 ## Usage
